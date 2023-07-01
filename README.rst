@@ -1,5 +1,6 @@
 Unidecode, lossy ASCII transliterations of Unicode text
 =======================================================
+Copied from https://github.com/avian2/unidecode
 
 It often happens that you have text data in Unicode, but you need to
 represent it in ASCII. For example when integrating with legacy code that
